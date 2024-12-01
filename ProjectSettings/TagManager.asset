@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Chest tp
+  - Item
+  - Moving
+  - Touch
+  - Drawing
+  - Tab
+  - LesTP
+  - CityTP
+  - ToGorod
+  - End
+  - Stone
+  - Ebanina
+  - Num
+  - Paper
+  - Stone2
+  - Stone3
+  - Lock
+  - NewTag
+  - "\u042B\u0435\u0449\u0442\u04434"
+  - NumNorm
+  - ForestTP
+  - LakeTP
+  - RuinsTP
+  - MountTP
+  - LakeComment
+  - BunkerCom
+  - Stones
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
